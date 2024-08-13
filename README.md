@@ -1,6 +1,6 @@
 If you wish to read the full report, then refer to [report.pdf](./report.pdf)
 
-Orignal Dataset can be found on [kaggle](https://www.kaggle.com/datasets/tanayatipre/car-price-prediction-dataset) or [here](./latex-r-report-code/credit_eligibility.csv)
+The Orignal Dataset used in this project can be found on [kaggle](https://www.kaggle.com/datasets/tanayatipre/car-price-prediction-dataset) or [here](./latex-r-report-code/credit_eligibility.csv)
 
 # Table of Content
 
