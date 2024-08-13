@@ -1,5 +1,7 @@
 If you wish to read the full report, then refer to [report.pdf](./report.pdf)
 
+Orignal Dataset can be found on [kaggle](https://www.kaggle.com/datasets/tanayatipre/car-price-prediction-dataset) or [here](./latex-r-report-code/credit_eligibility.csv)
+
 # Table of Content
 
 - [Abstract](#abstract)
@@ -8,7 +10,7 @@ If you wish to read the full report, then refer to [report.pdf](./report.pdf)
 
 # Abstract
 
-A crucial aspect in financial industry is assessing the likelihood of a customer repaying their debt. In an era where data-driven decision-making is highly important, understanding what factors have impact on creditworthiness is vital for both lenders and borrowers. This report analyzes a real-world dataset using data visualization and predictive modeling technique to examine relationships between factors like demographic characteristics, financial factors and customer characteristics and their effect on creditworthiness to answer **5 non-trivial research questions**.
+A crucial aspect in financial industry is assessing the likelihood of a customer repaying their debt. In an era where data-driven decision-making is highly important, understanding what factors have impact on creditworthiness is vital for both lenders and borrowers. This report analyzes a real-world dataset using data visualization and predictive modeling technique to examine relationships between factors like demographic characteristics, financial factors and customer characteristics and their effect on creditworthiness to answer [5 non-trivial research questions](#answering-non-trivial-questions).
 
 # Univariate Analysis
 
